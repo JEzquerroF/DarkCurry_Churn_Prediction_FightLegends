@@ -45,7 +45,6 @@ La aplicación web (Streamlit + Hugging Face Spaces) está en un repositorio sep
 
 - **Código fuente:** [github.com/JEzquerroF/tfg-churn-deployment](https://github.com/JEzquerroF/tfg-churn-deployment)
 - **Aplicación:** [huggingface.co/spaces/JEzquerroF/tfg-churn-prediction](https://huggingface.co/spaces/JEzquerroF/tfg-churn-prediction)
-- **Modelos:** [huggingface.co/JEzquerroF/tfg-churn-models](https://huggingface.co/JEzquerroF/tfg-churn-models)
 
 ## Nota sobre los datos
 
