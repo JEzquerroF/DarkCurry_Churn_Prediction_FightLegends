@@ -5,11 +5,12 @@
 **Curso:** 2025-2026  
 **Empresa colaboradora:** [Dark Curry](https://darkcurry.com/) — *Fight Legends*
 
+**Enlaces para descargar el videojuego:** 
 [App Store](https://apps.apple.com/es/app/fight-legends-fighting-games/id1529416496) · [Google Play](https://play.google.com/store/apps/details?id=com.darkcurry.darksteel&hl=es)
 
-![Fight Legends](img/fl_1.png)
-![Fight Legends](img/fl_2.png)
-![Fight Legends](img/fl_3.png)
+![Fight Legends](https://raw.githubusercontent.com/JEzquerroF/DarkCurry_Churn_Prediction_FightLegends/main/img/fl_1.png)
+![Fight Legends](https://raw.githubusercontent.com/JEzquerroF/DarkCurry_Churn_Prediction_FightLegends/main/img/fl_2.png)
+![Fight Legends](https://raw.githubusercontent.com/JEzquerroF/DarkCurry_Churn_Prediction_FightLegends/main/img/fl_3.png)
 
 ## Resumen
 Sistema de predicción de abandono (*churn*) y recomendación de contramedidas aplicado a Fight Legends, un videojuego free-to-play móvil con más de un millón de descargas en Google Play. A partir de un dataset real de 1,16 millones de jugadores cedido por Dark Curry, el proyecto desarrolla tres bloques: un modelo predictivo de churn (Random Forest, AUC 0,91 a 14 días), una segmentación no supervisada en seis arquetipos de jugador (KMeans, silhouette 0,35), y una aplicación web desplegada que integra ambos modelos y genera informes operacionales para la empresa.
