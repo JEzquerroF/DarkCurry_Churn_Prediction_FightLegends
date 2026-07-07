@@ -8,7 +8,7 @@
 **Enlaces para descargar el videojuego:** 
 [App Store](https://apps.apple.com/es/app/fight-legends-fighting-games/id1529416496) · [Google Play](https://play.google.com/store/apps/details?id=com.darkcurry.darksteel&hl=es)
 
-![Fight Legends](https://raw.githubusercontent.com/JEzquerroF/DarkCurry_Churn_Prediction_FightLegends/tree/main/img/fl_1.png)
+![Fight Legends](https://github.com/JEzquerroF/DarkCurry_Churn_Prediction_FightLegends/blob/main/img/fl_1.PNG)
 ![Fight Legends](https://raw.githubusercontent.com/JEzquerroF/DarkCurry_Churn_Prediction_FightLegends/tree/main/img/fl_2.png)
 ![Fight Legends](https://raw.githubusercontent.com/JEzquerroF/DarkCurry_Churn_Prediction_FightLegends/tree/main/img/fl_3.png)
 
